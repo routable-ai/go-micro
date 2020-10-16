@@ -8,7 +8,6 @@ require (
 	github.com/bitly/go-simplejson v0.5.0
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/bwmarrin/discordgo v0.19.0
-	github.com/coreos/bbolt v1.3.3 // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
 	github.com/coreos/go-systemd v0.0.0-20190719114852-fd7a80b32e1f // indirect
 	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f // indirect
@@ -45,7 +44,7 @@ require (
 	github.com/pkg/errors v0.8.1
 	github.com/technoweenie/multipartstreamer v1.0.1 // indirect
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5 // indirect
-	go.etcd.io/etcd v0.5.0-alpha.5.0.20200306183522-221f0cc107cb
+	go.etcd.io/etcd v3.4.13+incompatible
 	go.uber.org/multierr v1.2.0 // indirect
 	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
 	golang.org/x/net v0.0.0-20191011234655-491137f69257
