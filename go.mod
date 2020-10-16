@@ -44,7 +44,7 @@ require (
 	github.com/pkg/errors v0.8.1
 	github.com/technoweenie/multipartstreamer v1.0.1 // indirect
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5 // indirect
-	go.etcd.io/etcd v3.4.13+incompatible
+	go.etcd.io/etcd v3.4.8+incompatible
 	go.uber.org/multierr v1.2.0 // indirect
 	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
 	golang.org/x/net v0.0.0-20191011234655-491137f69257
